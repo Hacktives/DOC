@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: pelajarblog/post
+  repo: an-droidx/DOC
   branch: main
 publish_mode: editorial_workflow
-media_folder: "assets/images"
+media_folder: "/images"
 
 
 collections:
